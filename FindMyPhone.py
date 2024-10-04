@@ -1,6 +1,5 @@
 #Tengo que instalar las librerias para poder importarlas, estoy resolviendo eso T.T
 
-
 import numpy as np
 import sounddevice as sd
 import time
